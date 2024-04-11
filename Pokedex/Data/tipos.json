@@ -1,0 +1,44 @@
+﻿[
+ 
+  {
+    "Nome": "Drama",
+    "Cor": "#000"
+  },
+  {
+    "Nome": "Romance",
+    "Cor": "#e9e"
+  },
+  {
+    "Nome": "Fantasma",
+    "Cor": "#66b"
+  },
+  {
+    "Nome": "Fogo",
+    "Cor": "#f42"
+  },
+
+  {
+    "Nome": "Inseto",
+    "Cor": "#ab6"
+  },
+
+  
+  {
+    "Nome": "Ação",
+    "Cor": "#6cf"
+  },
+
+  
+  {
+    "Nome": "Terrestre",
+    "Cor": "#db5"
+  },
+  {
+    "Nome": "Aventura",
+    "Cor": "#a59"
+  },
+  {
+    "Nome": "Voador",
+    "Cor": "#89f"
+  }
+]
