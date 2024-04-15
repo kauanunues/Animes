@@ -2,71 +2,50 @@
   {
     "Numero": 1,
     "Nome": "Dragonball",
-    "Descricao": "Bulbasaur pode ser visto cochilando sob luz solar intensa. Há uma semente em suas costas. Ao absorver os raios do sol, sua semente cresce progressivamente.",
-    "Especie": "Seed",
+    "Descricao": "Dragon Ball, basicamente, é sobre a luta entre o bem e o mal. A princípio alguns dos personagens pretendem reunir as sete Esferas do Dragão para pedir algum desejo pessoal, mas eles aprendem que estes objetos também são procurados por outros para o mal, que os leva a enfrentá-los em mais de uma ocasião.",
     "Tipo": [ "Aventura", "Ação" ] ,
-    "Altura": 0.7,
-    "Peso": 6.9,
     "Imagem": "\\img\\Animes\\Dragonball 1.jpg"
   },
   {
     "Numero": 2,
     "Nome": "Naruto",
-    "Descricao": "Há um broto nas costas desse Pokémon. Para suportar seu peso, as pernas e o tronco de Ivysaur ficam grossos e fortes. Se começar a passar mais tempo deitado sob a luz do sol, é um sinal de que o broto florescerá em uma flor grande em breve.",
-    "Especie": "Seed",
+    "Descricao": "Naruto Uzumaki é apresentado como um jovem rapaz louro, cabelos arrepiados e olhos azuis. Ele frequentemente veste uma jaqueta laranja. Após a sua graduação ninja ele começa a usar um protetor de testa que denota a sua posição como um ninja da Vila Oculta da Folha.",
     "Tipo": [  "Ação", "Aventura","Drama" ],
-    "Altura": 1,
-    "Peso": 13,
     "Imagem": "\\img\\Animes\\Naruto 2.webp"
   },
   {
     "Numero": 3,
     "Nome": "One pucnh",
-    "Descricao": "Há uma flor grande nas costas de Venusaur. Diz-se que a flor adquire cores vivas se receber muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas.",
-    "Especie": "Seed",
+    "Descricao": "One Punch-Man conta a história de Saitama, um super-herói extremamente poderoso, que se entediou com a ausência dos desafios nas suas lutas contra o mal e procura encontrar um oponente digno. Capa do primeiro volume de One Punch-Man, manga adaptado por Yusuke Murata, mostrando o protagonista Saitama.",
     "Tipo": [  "Ação", "Aventura"],
-    "Altura": 2,
-    "Peso": 100,
     "Imagem": "\\img\\animes\\One punch 3.webp"
   },
   {
     "Numero": 4,
     "Nome": "Solo Leveling",
-    "Descricao": "A chama que queima na ponta da cauda é uma indicação de suas emoções. A chama tremula quando Charmander está se divertindo. Se o Pokémon se enfurecer, a chama queima ferozmente.",
-    "Especie": "Lizard",
+    "Descricao": "Em meio a um mundo de de masmorras e incursões, Sung Jin-woo é um Caçador rank E sem dinheiro, sem talento, sem nada. Até que um dia vê a morte eminente e em meio a crise surgem novas oportunidades, se tornando apto a subir de nivel e enfretar novos desafios em uma jornada emocionante.",
     "Tipo": [ "Aventura", "Ação","Drama" ],
-    "Altura": 0.6,
-    "Peso": 8.5,
     "Imagem": "\\img\\animes\\solo 4.jpg"
   },
   {
     "Numero": 5,
     "Nome": "Jujutsu",
     "Descricao": "Charmeleon impiedosamente destrói seus inimigos usando suas garras afiadas. Se encontrar um inimigo forte, ele se torna agressivo. Nesse estado excitado, a chama na ponta de sua cauda brilha com uma cor branca azulada.",
-    "Especie": "Flame",
     "Tipo": [ "Aventura", "Ação" ],
-    "Altura": 1.1,
-    "Peso": 19,
     "Imagem": "\\img\\animes\\juju 5.jpg"
   },
   {
     "Numero": 6,
     "Nome": "One Piece",
-    "Descricao": "Charizard voa pelo céu em busca de oponentes poderosos. Ele respira um calor tão grande que derrete qualquer coisa. No entanto, nunca dá um sopro ardente a qualquer oponente mais fraco que ele.",
-    "Especie": "Flame",
+    "Descricao": "A série foca em Monkey D. Luffy, um jovem que se tornou usuário de Akuma no Mi acidentalmente quando era criança. Ele comeu a Akuma no Mi conhecida como Gomu Gomu no Mi, ou Fruta da Borracha, que estava sob posse da tripulação do poderoso pirata Shanks, o Ruivo, o ídolo de infância de Luffy.",
     "Tipo": [ "Aventura",  "Ação" ],
-    "Altura": 1.7,
-    "Peso": 90.5,
     "Imagem": "\\img\\animes\\One 6.jpg"
   },
   {
     "Numero": 7,
     "Nome": "Mushoku Tensei",
-    "Descricao": "A concha de Squirtle não é apenas usada para proteção. A forma arredondada da concha e as ranhuras na superfície ajudam a minimizar a resistência na água, permitindo que este Pokémon nade em alta velocidade.",
-    "Especie": "Tiny Turtle",
-    "Tipo": [ "Aventura", "Ação" ,"Romance","Drama"],
-    "Altura": 0.5,
-    "Peso": 9,
+    "Descricao": "Mushoku Tensei conta a história de um NEET (“Not in Education, Employment, or Training”) fracassado, que tem sua vida humilhada pelos colegas de classe desde jovem, desempregado, que mora com os pais e sem perspectiva de melhora.",
+    "Tipo": [ "Aventura", "Ação" ,"Romance"],
     "Imagem": "\\img\\animes\\m 7.jpg"
   },
   {
@@ -94,7 +73,7 @@
     "Nome": "Bakugan",
     "Descricao": "Caterpie tem um apetite voraz. Ele pode devorar folhas maiores que seu corpo diante dos seus olhos. De sua antena, este Pokémon libera um odor terrivelmente forte.",
     "Especie": "Worm",
-    "Tipo": [ "Inseto" ],
+    "Tipo": [ "Luta" ],
     "Altura": 0.3,
     "Peso": 2.9,
     "Imagem": "\\img\\animes\\b 10.jpg"
@@ -103,10 +82,7 @@
     "Numero": 11,
     "Nome": "Super 11",
     "Descricao": "A concha que cobre o corpo deste Pokémon é tão dura quanto uma laje de ferro. Metapod não se move muito. Ele fica parado porque estã preparando suas entranhas suaves para a evolução dentro da casca dura.",
-    "Especie": "Cocoon",
-    "Tipo": [ "Inseto" ],
-    "Altura": 0.7,
-    "Peso": 9.9,
+    "Tipo": [ "Aventura" ],
     "Imagem": "\\img\\animes\\s 11.jpg"
   },
   {
@@ -114,7 +90,7 @@
     "Nome": "Bayblade",
     "Descricao": "Butterfree tem uma capacidade superior para procurar mel delicioso de flores. Pode até procurar, extrair e transportar mel de flores que estão desabrochando a mais de 10 quilômetros do ninho.",
     "Especie": "Butterfly",
-    "Tipo": [ "Inseto", "Voador" ],
+    "Tipo": [ "Luta"],
     "Altura": 1.1,
     "Peso": 32,
     "Imagem": "\\img\\animes\\b 12.jpg"
@@ -234,7 +210,7 @@
     "Nome": "Vanitas No Carte",
     "Descricao": "Este Pokémon é terrivelmente forte para contrair as coisas com seu corpo. Pode até achatar tambores de óleo de aço. Uma vez que Arbok envolve seu corpo em torno de seu inimigo, é impossível escapar do abraço esmagador.",
     "Especie": "Cobra",
-    "Tipo": [ "Aventura", "Ação" ,"Romance","Drama"],
+    "Tipo": [ "Aventura", "Ação","Drama"],
     "Altura": 3.5,
     "Peso": 65,
     "Imagem": "\\img\\animes\\v 24.jpg"
@@ -264,7 +240,7 @@
     "Nome": "Tensei Shitara",
     "Descricao": "Sandshrew tem uma pele muito seca que é extremamente resistente. Ele pode rolar virando uma bola que repele qualquer ataque do inimigo. À noite, ele se enterra na areia do deserto para dormir.",
     "Especie": "Mouse",
-    "Tipo": [ "Aventura", "Ação" ],
+    "Tipo": [ "Aventura", "Ação", "Luta"],
     "Altura": 0.6,
     "Peso": 12,
     "Imagem": "\\img\\animes\\T 27.webp"
@@ -273,10 +249,7 @@
     "Numero": 28,
     "Nome": "Kakegurui",
     "Descricao": "O corpo do Sandslash é coberto por pontas duras, que são seções endurecidas de sua pele. Uma vez por ano, os picos antigos caem, para serem substituídos por novos picos que crescem por baixo dos antigos. Graças às suas garras grossas, é bom em escalar árvores. Existem muitos Sandslash que se estacionam nas árvores e vão dormir.",
-    "Especie": "Mouse",
-    "Tipo": [ "Terrestre" ,"Drama"],
-    "Altura": 1,
-    "Peso": 29.5,
+    "Tipo": [ "Drama"],
     "Imagem": "\\img\\animes\\k 28.webp"
   },
   {
@@ -284,69 +257,49 @@
     "Nome": "Darling in The Franxx",
     "Descricao": "Suas farpas altamente tóxicas se desenvolveram como proteção para este Pokémon de corpo pequeno. Quando enfurecido, libera uma toxina horrível do chifre.",
     "Especie": "Poison Pin",
-    "Tipo": [ "Aventura", "Ação" ,"Romance","Drama"],
-    "Altura": 0.4,
-    "Peso": 7,
+    "Tipo": ["Ação" ,"Romance","Drama"],
     "Imagem": "\\img\\animes\\Dar 29.jpg"
   },
   {
     "Numero": 30,
     "Nome": "Mashle",
     "Descricao": "Quando Nidorina está com seus amigos ou familiares, eles mantêm suas farpas afastadas para evitar se machucar. Este Pokémon parece ficar nervoso se separado dos outros. A fêmea tem um temperamento suave. Emite gritos ultrassônicos que têm o poder de confundir os inimigos.",
-    "Especie": "Poison Pin",
     "Tipo": [ "Aventura" , "Ação"],
-    "Altura": 0.8,
-    "Peso": 20,
     "Imagem": "\\img\\animes\\M 30.jpg"
   },
   {
     "Numero": 31,
     "Nome": "Bleach",
     "Descricao": "O corpo de Nidoqueen é envolvido em escamas extremamente duras. É hábil em enviar inimigos voando com agressões severas. Este Pokémon é mais forte quando defende seus filhotes. Se ficar excitada, as agulhas se arrepiam para fora.",
-    "Especie": "Drill",
     "Tipo": [ "Aventura", "Ação" ],
-    "Altura": 1.3,
-    "Peso": 60,
     "Imagem": "\\img\\animes\\BL 31.jpg"
   },
   {
     "Numero": 32,
     "Nome": "HUnter X Hunter",
     "Descricao": "O Nidoran macho desenvolveu músculos para mover seus ouvidos. Graças a eles, os ouvidos podem ser movidos livremente em qualquer direção. Mesmo o menor som não escapa à atenção deste Pokémon.",
-    "Especie": "Poison Pin",
     "Tipo": [ "Aventura", "Ação" ],
-    "Altura": 0.5,
-    "Peso": 9,
     "Imagem": "\\img\\animes\\H 32.jpg"
   },
   {
     "Numero": 33,
     "Nome": "HIgh School DXD",
     "Descricao": "Seu chifre é mais duro que um diamante. Se sente uma presença hostil, todas as farpas nas costas se arrepiam de uma só vez e desafia o inimigo com toda a sua força. Ele tem uma disposição violenta e apunhala os inimigos com seu chifre, que exala veneno após o impacto.",
-    "Especie": "Poison Pin",
     "Tipo": [ "Romance", "Ação" ,"Drama"],
-    "Altura": 0.9,
-    "Peso": 19.5,
     "Imagem": "\\img\\animes\\h 33.jpg"
   },
   {
     "Numero": 34,
     "Nome": "Villand Saga",
     "Descricao": "A cauda grossa de Nidoking possui poder enormemente destrutivo. Com um balanço, pode derrubar uma torre de transmissão de metal. Uma vez que este Pokémon se enfurece, não há como detê-lo.",
-    "Especie": "Drill",
-    "Tipo": [ "Aventura", "Ação" ],
-    "Altura": 1.4,
-    "Peso": 62,
+    "Tipo": [ "Aventura", "Ação", "Luta" ],
     "Imagem": "\\img\\animes\\V 34.webp"
   },
   {
     "Numero": 35,
     "Nome": "Neverland",
     "Descricao": "Em todas as noites de lua cheia, eles saem para brincar. Quando o amanhecer chega, os cansados Clefairys dormem aninhados um no outro em montanhas profundas e tranquilas. Voa usando as asas nas costas para coletar o luar. Este Pokémon é difícil de ser encontrado.",
-    "Especie": "Fairy",
     "Tipo": [ "Aventura" ,"Drama" ],
-    "Altura": 0.6,
-    "Peso": 7.5,
     "Imagem": "\\img\\animes\\n 35.jpg"
   },
   {
@@ -355,8 +308,6 @@
     "Descricao": "Clefable usa suas asas para pular levemente, como se estivesse voando. Seu passo saltitante permite que ele ande sobre a água. Nas noites tranquilas e iluminadas pelo luar, passeia pelos lagos. Sua audição é tão aguda que pode ouvir um alfinete cair a mais de 800 metros de distância. Um tímido Pokémon de fada que raramente é visto, ele corre e se esconde a todo momento em que sente a presença de pessoas.",
     "Especie": "Fairy",
     "Tipo": [  "Ação","Drama"],
-    "Altura": 1.3,
-    "Peso": 40,
     "Imagem": "\\img\\animes\\T 36.webp"
   }
 ]

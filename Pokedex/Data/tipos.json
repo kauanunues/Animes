@@ -6,39 +6,22 @@
   },
   {
     "Nome": "Romance",
-    "Cor": "#e9e"
+    "Cor": "#ff007f"
   },
+  
   {
-    "Nome": "Fantasma",
-    "Cor": "#66b"
-  },
-  {
-    "Nome": "Fogo",
+    "Nome": "Luta",
     "Cor": "#f42"
   },
 
   {
-    "Nome": "Inseto",
-    "Cor": "#ab6"
-  },
-
-  
-  {
     "Nome": "Ação",
-    "Cor": "#6cf"
+    "Cor": "#0000ff"
   },
 
-  
-  {
-    "Nome": "Terrestre",
-    "Cor": "#db5"
-  },
   {
     "Nome": "Aventura",
-    "Cor": "#a59"
-  },
-  {
-    "Nome": "Voador",
-    "Cor": "#89f"
+    "Cor": "#259e49"
   }
+
 ]
